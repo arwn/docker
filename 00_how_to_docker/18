@@ -1,0 +1,3 @@
+#!/usr/bin/env
+#Relaunch the overlord container.
+docker restart overlord

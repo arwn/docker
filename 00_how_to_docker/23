@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+#Create an overlay-type internal network that you will name overmind.
+docker network create --driver overlay  overmind
