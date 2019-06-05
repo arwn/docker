@@ -1,0 +1,3 @@
+[submodule "01_dockerfiles/ex02/ruby-rails-helloworld"]
+	path = 01_dockerfiles/ex02/ruby-rails-helloworld
+	url = https://github.com/IBM-Cloud/ruby-rails-helloworld
